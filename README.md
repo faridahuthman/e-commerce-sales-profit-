@@ -13,7 +13,6 @@ Which products and payment modes drive revenue and profit, and how can losses be
 ## Dataset
 
 1,500 order line items across 500 unique orders, with amount, profit, quantity, category, sub-category and payment mode (COD, Credit Card, Debit Card, UPI, EMI). Amounts are in Indian rupees (₹).
-Source: Data Forge Challenge #002 (add the link to the original dataset repository here).
 
 ## Tools
 
